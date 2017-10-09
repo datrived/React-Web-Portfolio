@@ -1,0 +1,13 @@
+#cardimg{
+	width:180px;
+	height: 200px;
+	border: 5px solid hotpink;
+	border-radius: 5px 50px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	align-self: center;
+}
+
+#cardwrapper{
+	text-align: center;
+}
